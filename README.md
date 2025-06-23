@@ -5,7 +5,7 @@
 Bem vindo ao meu perfil, esta conta é pessoal então faço projetos para mim mesmo para treinar programação ou criar algo legal. Quero ser um futuro desenvolvedor então estou determinado em aprender novas coisas.
 
 Sexo: Masculino<br>
-País: Brazil<br>
+País: Brasil<br>
 Aniversário: 6 de Julho<br>
 
 <div>
