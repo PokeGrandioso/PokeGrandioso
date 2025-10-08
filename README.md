@@ -1,6 +1,6 @@
 ## Olá. Eu sou o PokéGrandioso 👋
 
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RichardSiqueTCG)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PokeGrandioso)
 
 Bem vindo ao meu perfil, esta conta é pessoal então faço projetos para mim mesmo para treinar programação ou criar algo legal. Quero ser um futuro desenvolvedor então estou determinado em aprender novas coisas.
 
