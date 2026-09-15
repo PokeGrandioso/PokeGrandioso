@@ -31,4 +31,4 @@ Aniversário/Birthday: 6 de Julho / July 6<br>
 </div>
 
 ### Status<hr>
-![PokéGrandioso GitHub stats](https://github-stats-extended.vercel.app/api?username=PokeGrandioso)](https://github.com/stats-organization/github-stats-extended)
+![PokéGrandioso GitHub stats](https://github-stats-extended.vercel.app/api?username=PokeGrandioso)]
