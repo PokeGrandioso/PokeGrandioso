@@ -1,6 +1,6 @@
 ## Olá. Eu sou Grandi | Hello I'm Grandi 👋
 
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PokeGrandioso)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PokeGrandioso)
 [![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pokegrandioso.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/PokeGrandioso)
 
