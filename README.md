@@ -2,7 +2,7 @@
 
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PokeGrandioso)
 [![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pokegrandioso.bsky.social)
-[![Instagram](https://img.shields.io/badge/Instagram-ff8da1?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/PokeGrandioso)
+[![Instagram](https://img.shields.io/badge/Instagram-ff8da1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pokegrandioso/)
 
 BR:
 Bem vindo ao meu perfil, esta conta é pessoal então faço projetos para mim mesmo para treinar programação ou criar algo legal. Quero ser um futuro desenvolvedor então estou determinado em aprender novas coisas.
