@@ -1,5 +1,4 @@
-## Olá. Eu sou Grandi 👋
-## Hello, I'm Grandi 👋
+## Olá. Eu sou Grandi | Hello I'm Grandi 👋
 
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PokeGrandioso)
 
@@ -10,7 +9,7 @@ EN:
 Welcome to my profile. This is a personal account, so I work on projects for myself to practice programming or create something cool. I aim to become a developer, so I am determined to learn new things.
 
 Gênero/Gender: ♂️ <br>
-País/Country: 🇧🇷 <br>
+País/Country: Brazil <br>
 Aniversário/Birthday: 6 de Julho / July 6<br>
 
 <div>
